@@ -1,0 +1,45 @@
+.account-box {
+    border: 1px solid #e6e6e6;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.account-box h4 {
+    margin-bottom: 5px;
+    font-size: 1rem;
+}
+
+.account-box .icon {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.order-item {
+    display: flex;
+    align-items: center;
+    font-size: 0.95rem;
+}
+
+.badge-notify {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 8px;
+    font-size: 0.8rem;
+    margin-left: 5px;
+}
+
+.member-rank img {
+    width: 30px;
+}
+
+.nav-title {
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+.icon {
+    width: 25px;
+    height: auto;
+}

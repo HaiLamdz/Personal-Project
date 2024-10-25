@@ -1,0 +1,23 @@
+
+.size-selector {
+    border: 2px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.size-option {
+    margin: 0 5px;
+    padding: 10px 20px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.size-option:hover {
+    background-color: #f0f0f0;
+}
+.size-option.active {
+    background-color: #007bff;
+    color: white;
+}
